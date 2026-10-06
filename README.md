@@ -2,9 +2,14 @@
 
 ## Nathan Chortek | Submission Details
 
-| <img width="500px" src=Images/umbreon.jpeg/>  | <img width="500px" src=Images/finalRender.mp4/> |
-|:--:|:--:|
-| *2D Concept Illustration* | *3D Stylized Scene in Unity* |
+| <img src=Images/umbreon.jpeg/> |
+|:--:|
+| *2D Concept Illustration* |
+| Credit: milkshreds on Instagram |
+
+| <video src=Images/finalRender.mp4/> |
+|:--:|
+| *3D Stylized Scene in Unity* |
 
 ### Features Implemented
 - TODO
