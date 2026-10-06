@@ -1,5 +1,23 @@
 # HW 2: *3D Stylization*
 
+## Nathan Chortek | Submission Details
+
+| <img src=Images/umbreon.jpeg width="500px"/> |
+|:--:|
+| *2D Concept Illustration* |
+| Credit: milkshreds on Instagram |
+
+| <video src=https://github.com/user-attachments/assets/c90c33d3-c431-4d29-b1a2-d3e9cac5b13a/> |
+|:--:|
+| *3D Stylized Scene in Unity* |
+
+| <video src=https://github.com/user-attachments/assets/4d3fc225-aa75-4751-aadc-4aead2207be4/> |
+|:--:|
+| *3D Stylized Scene in Unity (Alt)* |
+
+### Features Implemented
+- TODO
+
 ## Project Overview:
 In this assignment, you will use a 2D concept art piece as inspiration to create a 3D Stylized scene in Unity. This will give you the opportunity to explore stylized graphics techniques alongside non-photo-realistic (NPR) real-time rendering workflows in Unity.
 
