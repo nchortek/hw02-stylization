@@ -86,6 +86,11 @@ public class FullScreenFeature : ScriptableRendererFeature
 
         renderer.EnqueuePass(m_FullScreenPass);
     }
+
+    public void SetMaterial(Material material)
+    {
+        settings.material = material;
+    }
 }
 
 
