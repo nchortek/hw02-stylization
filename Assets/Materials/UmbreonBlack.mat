@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Floor
+  m_Name: UmbreonBlack
   m_Shader: {fileID: -6465566751694194690, guid: a3ed1b269d7251c45989ae2231184233,
     type: 3}
   m_Parent: {fileID: 0}
@@ -145,11 +145,11 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Highlight: {r: 0.6416242, g: 1, b: 0.6264151, a: 0}
-    - _Midtone: {r: 0.4238976, g: 0.6792453, b: 0.41267356, a: 1}
+    - _Highlight: {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 0}
+    - _Midtone: {r: 0.254717, g: 0.254717, b: 0.254717, a: 1}
     - _Ramped_Diffuse_Values: {r: 0.2, g: 0.4, b: 1, a: 0}
-    - _Rim_Color: {r: 1, g: 1, b: 1, a: 0}
-    - _Shadow: {r: 0.20632213, g: 0.3301887, b: 0.2006052, a: 1}
+    - _Rim_Color: {r: 0.30980393, g: 0.48235297, b: 0.49803925, a: 0}
+    - _Shadow: {r: 0.16470589, g: 0.16470589, b: 0.16470589, a: 1}
     - _Shadow_Tiling: {r: 5, g: 5, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Thresholds: {r: 0.5, g: 0.8, b: 0, a: 0}
