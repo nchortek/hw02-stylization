@@ -116,6 +116,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
+    - _Cycle_Speed: 1
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -138,6 +139,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
+    - _Steps: 4
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
@@ -146,10 +148,13 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _Highlight: {r: 0, g: 0.85098046, b: 1, a: 0}
-    - _Midtone: {r: 0, g: 0.85098046, b: 1, a: 1}
+    - _Highlight_B: {r: 1, g: 0.86, b: 0.09999997, a: 1}
+    - _Midtone: {r: 0, g: 0.56148034, b: 0.6603774, a: 1}
+    - _Midtone_B: {r: 0.95, g: 0.72, b: 0.049999982, a: 1}
     - _Ramped_Diffuse_Values: {r: 0.2, g: 0.4, b: 1, a: 0}
     - _Rim_Color: {r: 0, g: 0.85098046, b: 1, a: 0}
-    - _Shadow: {r: 0.32766104, g: 0.87936205, b: 0.9811321, a: 1}
+    - _Shadow: {r: 0, g: 0.35213062, b: 0.41509432, a: 1}
+    - _Shadow_B: {r: 0.75, g: 0.5, b: 0.049999982, a: 1}
     - _Shadow_Tiling: {r: 5, g: 5, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Thresholds: {r: 0.5, g: 0.8, b: 0, a: 0}
