@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: UmbreonBlue
-  m_Shader: {fileID: -6465566751694194690, guid: 17379ed2ac594c443a22acb80a282169,
+  m_Name: UmbreonAccent
+  m_Shader: {fileID: -6465566751694194690, guid: 54cabf100a568e84195753fed6a1309e,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -149,7 +149,7 @@ Material:
     - _Midtone: {r: 0, g: 0.85098046, b: 1, a: 1}
     - _Ramped_Diffuse_Values: {r: 0.2, g: 0.4, b: 1, a: 0}
     - _Rim_Color: {r: 0, g: 0.85098046, b: 1, a: 0}
-    - _Shadow: {r: 0, g: 0.85098046, b: 1, a: 1}
+    - _Shadow: {r: 0.32766104, g: 0.87936205, b: 0.9811321, a: 1}
     - _Shadow_Tiling: {r: 5, g: 5, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Thresholds: {r: 0.5, g: 0.8, b: 0, a: 0}
